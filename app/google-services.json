@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "558050782949",
+    "firebase_url": "https://listafirebase-90276-default-rtdb.firebaseio.com",
+    "project_id": "listafirebase-90276",
+    "storage_bucket": "listafirebase-90276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558050782949:android:d41183993de59e63d4ae0c",
+        "android_client_info": {
+          "package_name": "com.firebase.firebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqePEnv_9-Wf9fsHfv8mf9MJ2EzKaIbrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
